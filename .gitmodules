@@ -1,0 +1,6 @@
+[submodule "pyfolio"]
+	path = pyfolio
+	url = https://github.com/quantopian/pyfolio.git
+[submodule "backtrader"]
+	path = backtrader
+	url = https://github.com/mementum/backtrader.git
